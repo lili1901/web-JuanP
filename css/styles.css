@@ -10622,7 +10622,7 @@ blockquote {
     color: rgba(255, 255, 255, 0.8);
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
-    color: #fff;
+    color: #e3cb04;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link:hover {
     color: rgba(255, 255, 255, 0.8);
@@ -10708,7 +10708,7 @@ header.masthead .site-heading .subheading {
   line-height: 1.1;
   display: block;
   margin-top: 0.625rem;
-  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: Monotype Corsiva;
 }
 header.masthead .post-heading h1, header.masthead .post-heading .h1 {
   font-size: 2.25rem;
