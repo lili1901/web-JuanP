@@ -60,6 +60,24 @@ border-radius:29px 0px 29px 0px;
     left: 254px;
   }
 /*<---_-_-_--__--__--__--__-- plan escolar Estilos básicos -_-_--__--> */
+ .infopreescolar{
+  margin-top: -30px !important;
+}
+/* .infosecundaria{
+  margin-top: -30px !important;
+} */ 
+ /* .plan1{
+margin-left: 30px;
+margin-right: 20px;
+
+}   */
+.txtinformativo{
+margin-top: 9px;
+color: #657bb4;
+}
+ .txtbtn{
+color: rgb(76, 76, 215);
+}
 .container {
     display: flex;
     justify-content: space-around;
@@ -95,6 +113,7 @@ border-radius:29px 0px 29px 0px;
   border-radius: 50%;
   
   }
+  /* fondo tarjeta */
   .plan-esc{
 background-color: #555f93;
   } 
@@ -153,10 +172,69 @@ css plan escolar
     margin-top: 10px;
 }
 
-/* BORDER-TOP-LEFT-RADIUS */
+/*-------------------------------- info escolar ------------------------------------- */
+#barradots{
+  height: 29px;
+}
+.secciones {
+background-color: #657bb4;
+color: #fff;
+border-radius:9px;
+width: 240px;
+font-weight: 600;
+}
 
-/* 
+#seccion1{
+  margin-top: 99px;
+}
+
+.imagendots{
+  background-image:url("../assets/img/barrapuntos.png");
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size:contain;
+}
+
+.imagenesinfo {
+margin-left: 90px;
+margin-right: 80px;
+margin-bottom: 9px;
+}
+
+.bg-divcustom {
+  background-color: #657bb4;
+}
+
+.cuadrado {
+  width: 150px;           /* Ancho de 150 píxeles */
+  height: 150px;          /* Alto de 150 píxeles */
+  background: #F5CD3C;        /* Fondo de color rojo */
+
+}
+/* texto a la derecha */
+#txt-card
+{
+  color: black;
+  margin-left: 73px;
+}
+#escolarcard {
+  background-color: #F5CD3C; 
+  z-index: -2;
+  border-radius:0px;
+  }
+.logo_jp_sf{
+  background-image:url("/assets/img/ByN.png");
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size:contain;
+}
+  /* 
 inicio
 css para talleres { 
 
+
+
+
+
+  E3CB04
  } */
